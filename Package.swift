@@ -6,8 +6,7 @@ import PackageDescription
 let package = Package(
     name: "melodyYaShared",
     platforms: [
-        .iOS(.v12),
-        .macOS(.v12)
+        .macOS(.v10_15)
     ],
     products: [
         .library(
