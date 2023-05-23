@@ -1,10 +1,3 @@
-//
-//  RadioStation.swift
-//  
-//
-//  Created by yaroslav.hrytsun on 14.05.2023.
-//
-
 import Foundation
 
 public struct RadioStation: Codable {
