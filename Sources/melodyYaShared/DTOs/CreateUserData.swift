@@ -2,7 +2,7 @@ import Foundation
 
 public struct CreateUserData: Codable {
     public var username: String
-    public var password: String?
+    public var password: String
     
     public init(username: String, password: String) {
         self.username = username
